@@ -9,10 +9,17 @@
 #include <locale.h>
 #endif
 
-// Include LINUX Librarys
-#ifdef LINUX
-#endif
-
 // Defines
 #define TRUE 1
 #define FALSE 0
+
+void clearscreen()
+{
+	#ifdef _WIN32
+	system ("CLS");
+	#endif
+
+	#ifndef _WIN32
+	system ("clear");
+	#endif
+}
