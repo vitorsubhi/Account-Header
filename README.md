@@ -5,5 +5,5 @@
 
 
 **- Next Update:**
-  - Delete, Modificate User
+  - Delete and Modify User
   - Open for Sugestions
