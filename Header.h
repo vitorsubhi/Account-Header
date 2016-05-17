@@ -16,10 +16,8 @@
 void clearscreen()
 {
 	#ifdef _WIN32
-	system ("CLS");
-	#endif
-
-	#ifndef _WIN32
-	system ("clear");
+		system ("CLS");
+	#else
+		system ("clear");
 	#endif
 }
