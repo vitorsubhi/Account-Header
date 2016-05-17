@@ -1,2 +1,9 @@
 # Account-Header
-Create, Delete, Update the Accounts to your C-Programm.
+[English Version] Create, Login the Accounts to your C-Programm.
+
+**- Lasts Updates:**
+
+
+**- Next Update:**
+  - Delete, Modificate User
+  - Open for Sugestions
