@@ -3,10 +3,10 @@
 
 **- Lasts Updates:**
   - Delete and Change Password.
+  - Portuguese Version.
   - Code Optimization.
 
 **- Next Update:**
-  - Portuguese Version
-  - Multi-Language Version
-  - Database MySQL Version
-  - Open for Sugestions
+  - Multi-Language Version.
+  - Database MySQL Version.
+  - Open for Sugestions.
