@@ -2,7 +2,8 @@
 [English Version] Create, Login the Accounts to your C-Programm.
 
 **- Lasts Updates:**
-  - Delete and Change Password.
+  - Delete User.
+  - Change Password.
   - Portuguese Version.
   - Code Optimization.
 
