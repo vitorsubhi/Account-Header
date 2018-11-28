@@ -6,7 +6,6 @@ int main()
 	int menu, connected; // Local Variable
 	do
 	{ // Show the Menu
-		clearscreen();
 		printf (" ______________\n");
 		printf ("|              |\n");
 		printf ("| 1 - Sign In  |\n");
@@ -31,7 +30,6 @@ int main()
 			connected = login (username, password); // Check if the Username and Password are Correct.
 			if (connected == TRUE) // Check if the User is connected
 			{
-				clearscreen();
 				printf ("You have Logged in as %s\n", username);
 			}
 		break;

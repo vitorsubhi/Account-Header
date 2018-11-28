@@ -12,12 +12,3 @@
 // Defines
 #define TRUE 1
 #define FALSE 0
-
-void clearscreen()
-{
-	#ifdef _WIN32
-		system ("CLS");
-	#else
-		system ("clear");
-	#endif
-}
