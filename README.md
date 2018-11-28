@@ -8,6 +8,6 @@
   - Code Optimization.
 
 **- Next Update:**
-  - Multi-Language Version.
+  - Multi-Language Version (PT-BR & EN-US).
   - Database MySQL Version.
   - Open for Sugestions.
